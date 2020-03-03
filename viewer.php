@@ -33,6 +33,7 @@ if(file_exists($floor_dir)){
             width: 85%;
             margin: 10px auto;
             overflow: hidden;
+            border: 1px solid #aaa;
         }
         .content a {
             display: block;
